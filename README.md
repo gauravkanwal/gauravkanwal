@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravkanwal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python . I have learned C++.
+- 🌱 I’m currently doing DSA in Java and learning Web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .... kanwalgk25@gmail.com
 - 9548895558
